@@ -458,7 +458,7 @@ org.apache.jackrabbit.test.api.query.qom.NodeLocalNameTest#testURILiteral       
             <dependency>
               <groupId>mysql</groupId>
               <artifactId>mysql-connector-java</artifactId>
-              <version>5.1.6</version>
+              <version>8.0.16</version>
               <type>jar</type>
               <scope>provided</scope>
             </dependency>
@@ -563,7 +563,7 @@ org.apache.jackrabbit.test.api.query.qom.NodeLocalNameTest#testURILiteral       
         <dependency>
           <groupId>mysql</groupId>
           <artifactId>mysql-connector-java</artifactId>
-          <version>5.1.6</version>
+          <version>8.0.16</version>
           <type>jar</type>
           <scope>test</scope>
         </dependency>
